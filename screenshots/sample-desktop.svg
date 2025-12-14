@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#fff8f1"/>
+  <text x="50%" y="45%" font-family="Poppins, Arial, sans-serif" font-size="34" text-anchor="middle" fill="#b45f04">Mithai Palace — Desktop Preview</text>
+  <text x="50%" y="55%" font-family="Poppins, Arial, sans-serif" font-size="16" text-anchor="middle" fill="#6b6b6b">Replace this placeholder with a real screenshot (PNG/JPG) of the app.</text>
+  <rect x="120" y="120" width="960" height="420" rx="16" ry="16" fill="#fff" stroke="#f1e6d6" stroke-width="2"/>
+  <text x="120" y="160" font-family="Poppins, Arial, sans-serif" font-size="18" fill="#333">Hero / Sweet of the Day area</text>
+</svg>
